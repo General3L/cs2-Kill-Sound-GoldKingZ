@@ -157,7 +157,7 @@ public class Helper
                     { "ShowChat", false },
                     { "ShowCenter", false },
                     { "ShowCenter_InSecs", 10 },
-                    { "Path", "sounds/GoldKingZ/Quake/headshot.vsnd_c" },
+                    { "Path", "sounds/GoldKingZ/Quake/hattrick.vsnd_c" },
                     { "Interval_InSecs", 5 }
                 },
                 ["HeadShot_5"] = new Dictionary<string, object>
@@ -169,6 +169,24 @@ public class Helper
                     { "Path", "sounds/GoldKingZ/Quake/headhunter.vsnd_c" },
                     { "Interval_InSecs", 5 }
                 },
+                ["Kill_2"] = new Dictionary<string, object>
+                {
+                    { "Announcement", true },
+                    { "ShowChat", true },
+                    { "ShowCenter", true },
+                    { "ShowCenter_InSecs", 10 },
+                    { "Path", "sounds/GoldKingZ/Quake/doublekill.vsnd_c" },
+                    { "Interval_InSecs", 5 }
+                },
+                ["Kill_3"] = new Dictionary<string, object>
+                {
+                    { "Announcement", true },
+                    { "ShowChat", true },
+                    { "ShowCenter", true },
+                    { "ShowCenter_InSecs", 10 },
+                    { "Path", "sounds/GoldKingZ/Quake/triplekill.vsnd_c" },
+                    { "Interval_InSecs", 5 }
+                },
                 ["Kill_4"] = new Dictionary<string, object>
                 {
                     { "Announcement", true },
@@ -176,6 +194,15 @@ public class Helper
                     { "ShowCenter", true },
                     { "ShowCenter_InSecs", 10 },
                     { "Path", "sounds/GoldKingZ/Quake/dominating.vsnd_c" },
+                    { "Interval_InSecs", 5 }
+                },
+                ["Kill_5"] = new Dictionary<string, object>
+                {
+                    { "Announcement", true },
+                    { "ShowChat", true },
+                    { "ShowCenter", true },
+                    { "ShowCenter_InSecs", 10 },
+                    { "Path", "sounds/GoldKingZ/Quake/multikill.vsnd_c" },
                     { "Interval_InSecs", 5 }
                 },
                 ["Kill_6"] = new Dictionary<string, object>
@@ -203,6 +230,15 @@ public class Helper
                     { "ShowCenter", true },
                     { "ShowCenter_InSecs", 10 },
                     { "Path", "sounds/GoldKingZ/Quake/monsterkill.vsnd_c" },
+                    { "Interval_InSecs", 5 }
+                },
+                ["Kill_12"] = new Dictionary<string, object>
+                {
+                    { "Announcement", true },
+                    { "ShowChat", true },
+                    { "ShowCenter", true },
+                    { "ShowCenter_InSecs", 10 },
+                    { "Path", "sounds/GoldKingZ/Quake/megakill.vsnd_c" },
                     { "Interval_InSecs", 5 }
                 },
                 ["Kill_14"] = new Dictionary<string, object>

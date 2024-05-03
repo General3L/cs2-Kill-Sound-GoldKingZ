@@ -31,7 +31,7 @@
 	"center.announce.quake.headshot.streak.5": "<font color='purple'>{0} <font color='white'>IS HEAD HUNTER!!! Got <font color='yellow'>{1} <font color='white'>HeadShot Streak! </font>",
 	
 	"chat.announce.quake.kill.streak.4": "{green}Gold KingZ {grey}| {purple}{0} {grey}On Kill Streak {yellow}{1}",
-	"center.announce.quake.kill.streak.4": "<font color='purple'>{0} <font color='white'>On Kill Streak <font color='yellow'>{1} </font>",
+	"center.announce.quake.kill.streak.4": "<font color='red'>Dominating <br><font color='purple'>{0} <font color='white'>On Kill Streak <font color='yellow'>{1} </font>",
 	
 	"chat.announce.quake.kill.streak.6": "{green}Gold KingZ {grey}| {red}Rampage  {nextline}{green}Gold KingZ {grey}| {purple}{0} {grey}On Kill Streak {yellow}{1}",
 	"center.announce.quake.kill.streak.6": "<font color='red'>Rampage <br><font color='purple'>{0} <font color='white'>On Kill Streak <font color='yellow'>{1} </font>",
@@ -69,7 +69,8 @@
 	
 	
 	"chat.quake.grenade": "{green}Gold KingZ {grey}| Nice! Grenade Kill, You Killed {yellow}{0}",
-	
+	"center.announce.quake.grenade": "<font color='red'>Grenade Kill !!! <br><font color='purple'>{0} <font color='white'>Killed <font color='yellow'>{1} </font>",
+
 	"chat.quake.molly": "{green}Gold KingZ {grey}| Nice! molotov Kill, You Killed {yellow}{0}",
 	
 	"chat.announce.quake.selfkill": "{green}Gold KingZ {grey}| {purple}{0} {grey}Killed Himself",
@@ -77,7 +78,7 @@
 	"chat.announce.quake.teamkill": "{green}Gold KingZ {grey}| {purple}{0} {darkred}TeamKill {yellow}{1}",
 	
 	"chat.announce.quake.firstblood": "{green}Gold KingZ {grey}| {BlueGrey}FirstBlood !!!  {purple}{0} {purple} Killed {yellow}{1}",
-	
+	"center.announce.quake.firstblood": "<font color='red'>Firstblood !!! <br><font color='purple'>{0} <font color='white'>Killed <font color='yellow'>{1} </font>",
 	
 	"chat.announce.quake.roundprepare": "{green}Gold KingZ {grey}| {grey}Prepare To Fight...",
 	"center.announce.quake.roundprepare": "<font color='yellow'>Prepare To Fight <font color='darkred'>... </font>",

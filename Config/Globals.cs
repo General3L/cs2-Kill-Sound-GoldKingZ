@@ -5,6 +5,8 @@ namespace Kill_Sound_GoldKingZ;
 
 public class Globals
 {
+    public static play_on_entity public string PlayOnEntity { get; set; } = "player";
+    public static sound_hearable_by public string SoundHearableBy { get; set; } = "all";
     public static int Takefreezetime;
     public static Stopwatch Timers = new Stopwatch();
     public static bool First_Blood = false;

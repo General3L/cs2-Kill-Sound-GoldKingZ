@@ -27,8 +27,8 @@
 	"player.toggle.quake.chat.message.off": "{green}Gold KingZ {grey}| {grey}Quake Chat Messages Is {darkred}Off",
 
 
-	"chat.announce.quake.headshot.streak.5": "{green}Gold KingZ {grey}| {purple}{0} {grey}IS HEAD HUNTER!!! Got {yellow}{1} {grey}HeadShot Streak!",
-	"center.announce.quake.headshot.streak.5": "<font color='purple'>{0} <font color='white'>IS HEAD HUNTER!!! Got <font color='yellow'>{1} <font color='white'>HeadShot Streak! </font>",
+	"chat.announce.quake.headshot.streak.1": "{green}Gold KingZ {grey}| {purple}{0} {grey}IS HEAD HUNTER!!! Got {yellow}{1} {grey}HeadShot Streak!",
+	"center.announce.quake.headshot.streak.1": "<img src='https://github.com/General3L/img/blob/7f371cd87d36a22a8ccdd6c442844e09faeb58e2/hs.png>",
 	
 	"chat.announce.quake.kill.streak.4": "{green}Gold KingZ {grey}| {purple}{0} {grey}On Kill Streak {yellow}{1}",
 	"center.announce.quake.kill.streak.4": "<font color='purple'>{0} <font color='white'>On Kill Streak <font color='yellow'>{1} </font>",
